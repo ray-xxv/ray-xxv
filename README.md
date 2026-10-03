@@ -2,6 +2,7 @@
 
 BSIT student at Bulacan State University and an aspiring Full Stack Developer.
 
+```text
   ,-.       _,---._ __  / \
  /  )    .-'       `./ /   \
 (  (   ,'            `/    /|
