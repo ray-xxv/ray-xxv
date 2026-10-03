@@ -1,12 +1,11 @@
-<table border="0">
-  <tr>
-    <td valign="top" width="55%">
-
 ## Hi, I'm Ray! 👋
 
 BSIT student at Bulacan State University and an aspiring Full Stack Developer.
 
 ---
+<table border="0">
+  <tr>
+    <td valign="top" width="55%">
 
 ### 🛠️ Current Tech Stack
 
