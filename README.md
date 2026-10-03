@@ -14,6 +14,8 @@ BSIT student at Bulacan State University and an aspiring Full Stack Developer.
   |  | (   |            | /
   )  |  \  `.___________|/
   `--'   `--'
+
+```
 <!--
 **ray-xxv/ray-xxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
