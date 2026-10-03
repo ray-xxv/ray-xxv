@@ -1,6 +1,23 @@
-## Hi, I'm Ray!
+<table border="0">
+  <tr>
+    <td valign="top" width="55%">
+
+## Hi, I'm Ray! 👋
 
 BSIT student at Bulacan State University and an aspiring Full Stack Developer.
+
+---
+
+### 🛠️ Current Tech Stack
+
+* **Languages:** JavaScript, TypeScript, HTML/CSS, Java, C#
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Express, REST APIs
+* **Database:** PostgreSQL, MongoDB, MySQL
+* **Tools:** Git, GitHub, VS Code, Postman
+
+   </td>
+   <td valign="top" width="45%">
 
 ```text
   ,-.       _,---._ __  / \
@@ -14,19 +31,3 @@ BSIT student at Bulacan State University and an aspiring Full Stack Developer.
   |  | (   |            | /
   )  |  \  `.___________|/
   `--'   `--'
-
-```
-<!--
-**ray-xxv/ray-xxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
