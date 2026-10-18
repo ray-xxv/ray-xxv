@@ -1,11 +1,14 @@
-## Hi, I'm Ray! 👋
+<h1 align="center">Hi, I'm Ray 👋</h1>
 
-BSIT student at Bulacan State University and an aspiring Full Stack Developer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=BSIT+student+%40+Bulacan+State+University;Aspiring+Full+Stack+Developer;Building+web+%26+mobile+apps" alt="Typing SVG" />
+</p>
 
 ---
+
 <table border="0">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 
 ### 🛠️ Current Tech Stack
 
@@ -30,3 +33,33 @@ BSIT student at Bulacan State University and an aspiring Full Stack Developer.
   |  | (   |            | /
   )  |  \  `.___________|/
   `--'   `--'
+```
+
+   </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,react,nextjs,tailwind,nodejs,express,postgres,git,github" alt="Tech stack icons" />
+</p>
+
+---
+
+### 🌱 Currently
+
+* 📚 Learning: full stack development with industry-standard tools
+* 🔨 Building: _what you're working on this week_
+* 🎯 Goal: become a Full Stack Developer
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+</p>
