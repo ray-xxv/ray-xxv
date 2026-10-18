@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Ray 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=BSIT+student+%40+Bulacan+State+University;Aspiring+Full+Stack+Developer;Building+web+%26+mobile+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=36&lines=BSIT+student+%40+Bulacan+State+University;Aspiring+Full+Stack+Developer;Building+web+%26+mobile+apps" alt="Typing SVG" />
 </p>
 
 ---
 
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td valign="top" width="55%">
 
@@ -48,15 +48,15 @@
 ### 🌱 Currently
 
 * 📚 Learning: full stack development with industry-standard tools
-* 🔨 Building: _what you're working on this week_
+* 🔨 Building: BulSU-Nav
 * 🎯 Goal: become a Full Stack Developer
 
 ---
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-reigh-marquez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marqueznathanreigh@gmail.com)
 
 ---
 
