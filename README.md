@@ -6,9 +6,12 @@
 
 ---
 
-<table border="0" align="center">
+<table border="0" align="center" width="100%">
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="34%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=compact&hide_border=true&card_width=280" alt="Top languages" width="100%" />
+    </td>
+    <td valign="top" width="36%">
 
 ### 🛠️ Current Tech Stack
 
@@ -19,7 +22,7 @@
 * **Tools:** Git, GitHub
 
    </td>
-   <td valign="top" width="45%">
+   <td valign="top" width="30%">
 
 ```text
   ,-.       _,---._ __  / \
@@ -57,9 +60,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-reigh-marquez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marqueznathanreigh@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=compact&hide_border=true" alt="Top languages" />
-</p>
