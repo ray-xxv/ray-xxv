@@ -4,12 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=36&lines=BSIT+student+%40+Bulacan+State+University;Aspiring+Full+Stack+Developer;Building+web+%26+mobile+apps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  I love turning ideas into working apps, and I'm learning the tools and practices used in the industry to grow into a full stack developer.
+</p>
+
 ---
 
 <table border="0" align="center" width="100%">
   <tr>
     <td valign="top" width="34%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=compact&hide_border=true&card_width=280" alt="Top languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=pie&hide_border=true&card_width=300" alt="Top languages" width="100%" />
     </td>
     <td valign="top" width="36%">
 
