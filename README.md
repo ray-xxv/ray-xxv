@@ -10,25 +10,23 @@
 
 ---
 
-<table border="0" align="center" width="100%">
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="34%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=pie&hide_border=true&card_width=300" alt="Top languages" width="100%" />
+    <td align="center" valign="middle" width="34%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=pie&hide_border=true&card_width=300&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Top languages" width="100%" />
     </td>
     <td valign="top" width="36%">
-
-### 🛠️ Current Tech Stack
-
-* **Languages:** JavaScript, TypeScript, HTML/CSS, Java
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, Express, REST APIs
-* **Database:** PostgreSQL, SSMS
-* **Tools:** Git, GitHub
-
-   </td>
-   <td valign="top" width="30%">
-
-```text
+      <h3 align="center">🛠️ Current Tech Stack</h3>
+      <p>
+        <b>Languages</b> &nbsp;›&nbsp; JavaScript, TypeScript, HTML/CSS, Java<br/><br/>
+        <b>Frontend</b> &nbsp;›&nbsp; React, Next.js, Tailwind CSS<br/><br/>
+        <b>Backend</b> &nbsp;›&nbsp; Node.js, Express, REST APIs<br/><br/>
+        <b>Database</b> &nbsp;›&nbsp; PostgreSQL, SSMS<br/><br/>
+        <b>Tools</b> &nbsp;›&nbsp; Git, GitHub
+      </p>
+    </td>
+    <td align="center" valign="middle" width="30%">
+<pre>
   ,-.       _,---._ __  / \
  /  )    .-'       `./ /   \
 (  (   ,'            `/    /|
@@ -40,9 +38,8 @@
   |  | (   |            | /
   )  |  \  `.___________|/
   `--'   `--'
-```
-
-   </td>
+</pre>
+    </td>
   </tr>
 </table>
 
