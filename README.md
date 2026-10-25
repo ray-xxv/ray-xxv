@@ -20,7 +20,7 @@
       <p>
         <b>Languages</b> &nbsp;›&nbsp; JavaScript, TypeScript, HTML/CSS, Java<br/><br/>
         <b>Frontend</b> &nbsp;›&nbsp; React, Next.js, Tailwind CSS<br/><br/>
-        <b>Backend</b> &nbsp;›&nbsp; Node.js, Express, REST APIs<br/><br/>
+        <b>Backend</b> &nbsp;›&nbsp; Node.js, Express<br/><br/>
         <b>Database</b> &nbsp;›&nbsp; PostgreSQL, SSMS<br/><br/>
         <b>Tools</b> &nbsp;›&nbsp; Git, GitHub
       </p>
