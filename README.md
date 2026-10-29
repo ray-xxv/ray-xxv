@@ -12,20 +12,40 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="middle" width="34%">
+    <td align="center" valign="middle" width="30%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=pie&hide_border=true&card_width=300&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Top languages" width="100%" />
     </td>
-    <td valign="top" width="36%">
-      <h3 align="center">🛠️ Current Tech Stack</h3>
-      <p>
-        <b>Languages</b> &nbsp;›&nbsp; JavaScript, TypeScript, HTML/CSS, Java<br/><br/>
-        <b>Frontend</b> &nbsp;›&nbsp; React, Next.js, Tailwind CSS<br/><br/>
-        <b>Backend</b> &nbsp;›&nbsp; Node.js, Express<br/><br/>
-        <b>Database</b> &nbsp;›&nbsp; PostgreSQL, SSMS<br/><br/>
-        <b>Tools</b> &nbsp;›&nbsp; Git, GitHub
-      </p>
+    <td align="center" valign="middle" width="44%">
+      <h3 align="center">Current Tech Stack</h3>
+      <table align="center">
+        <tr>
+          <td align="right"><b>Languages</b></td>
+          <td>&nbsp;›&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,java&theme=dark" height="34" alt="Languages" /></td>
+        </tr>
+        <tr>
+          <td align="right"><b>Frontend</b></td>
+          <td>&nbsp;›&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="34" alt="Frontend" /></td>
+        </tr>
+        <tr>
+          <td align="right"><b>Backend</b></td>
+          <td>&nbsp;›&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="34" alt="Backend" /></td>
+        </tr>
+        <tr>
+          <td align="right"><b>Database</b></td>
+          <td>&nbsp;›&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="34" alt="PostgreSQL" /></td>
+        </tr>
+        <tr>
+          <td align="right"><b>Tools</b></td>
+          <td>&nbsp;›&nbsp;</td>
+          <td><img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="34" alt="Tools" /></td>
+        </tr>
+      </table>
     </td>
-    <td align="center" valign="middle" width="30%">
+    <td align="center" valign="middle" width="26%">
 <pre>
   ,-.       _,---._ __  / \
  /  )    .-'       `./ /   \
@@ -43,17 +63,13 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,react,nextjs,tailwind,nodejs,express,postgres,git,github" alt="Tech stack icons" />
-</p>
-
 ---
 
-### 🌱 Currently
+### Currently
 
-* 📚 Learning: full stack development with industry-standard tools
-* 🔨 Building: BulSU-Nav
-* 🎯 Goal: become a Full Stack Developer
+* Learning: full stack development with industry-standard tools
+* Building: BulSU-Nav
+* Goal: become a Full Stack Developer
 
 ---
 
