@@ -65,11 +65,11 @@
 
 ---
 
-### Currently
+### 🌱 Currently
 
-* Learning: full stack development with industry-standard tools
-* Building: BulSU-Nav
-* Goal: become a Full Stack Developer
+* 📚 Learning: full stack development with industry-standard tools
+* 🔨 Building: BulSU-Nav
+* 🎯 Goal: become a Full Stack Developer
 
 ---
 
