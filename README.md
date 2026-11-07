@@ -1,14 +1,9 @@
-<h1 align="center">Hi, I'm Ray 👋</h1>
+<h1 align="center">Ray</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=36&lines=BSIT+student+%40+Bulacan+State+University;Aspiring+Full+Stack+Developer;Building+web+%26+mobile+apps" alt="Typing SVG" />
+  BSIT student at Bulacan State University, specializing in web and mobile app development.<br />
+  I work with React, PHP, Java, and SQL.
 </p>
-
-<p align="center">
-  I love turning ideas into working apps, and I'm learning the tools and practices used in the industry to grow into a full stack developer.
-</p>
-
----
 
 <table align="center" width="100%">
   <tr>
@@ -65,15 +60,15 @@
 
 ---
 
-### 🌱 Currently
+### Currently
 
-* 📚 Learning: full stack development with industry-standard tools
-* 🔨 Building: BulSU-Nav
-* 🎯 Goal: become a Full Stack Developer
+* Building BulSU-Nav
+* Learning full stack development
+* Aiming to work as a Full Stack Developer
 
 ---
 
-### 📫 Let's connect
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-reigh-marquez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marqueznathanreigh@gmail.com)
