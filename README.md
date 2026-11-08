@@ -1,14 +1,15 @@
-<h1 align="center">Ray</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=ray-xxv+%2F+Ray" alt="ray-xxv / Ray" />
+</p>
 
 <p align="center">
-  BSIT student at Bulacan State University, specializing in web and mobile app development.<br />
-  I work with React, PHP, Java, and SQL.
+  I’m Ray, a BSIT student at Bulacan State University with a goal of becoming a full stack developer who builds AI-powered products. I’m especially interested in using AI to build apps that are smart and useful, like assistants and automation tools. My goal is to build and ship complete products while I keep learning.
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="middle" width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=pie&hide_border=true&card_width=300&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Top languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=donut&langs_count=6&hide_border=true&card_width=300&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" width="100%" />
     </td>
     <td align="center" valign="middle" width="44%">
       <h3 align="center">Current Tech Stack</h3>
