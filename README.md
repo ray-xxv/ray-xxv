@@ -61,13 +61,6 @@
 
 ---
 
-### Currently
-
-* Building BulSU-Nav
-* Learning full stack development
-* Aiming to work as a Full Stack Developer
-
----
 
 ### Contact
 
