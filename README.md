@@ -9,7 +9,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="middle" width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-xxv&layout=donut&langs_count=6&hide_border=true&card_width=300&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ray-xxv&theme=github_dark&hide_border=true" alt="Top languages by repo" width="100%" />
     </td>
     <td align="center" valign="middle" width="44%">
       <h3 align="center">Current Tech Stack</h3>
